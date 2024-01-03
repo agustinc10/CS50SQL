@@ -1,0 +1,144 @@
++----------------------------------------+--------------------------------------------+
+|                 title                  |                   topic                    |
++----------------------------------------+--------------------------------------------+
+| Space Waste Odyssey                    | NULL                                       |
+| Space Waste Odyssey                    | NULL                                       |
+| Giving Thanks Day                      | NULL                                       |
+| A Garden Grows in Botlyn               | NULL                                       |
+| Missing Bats in Sensible Flats         | NULL                                       |
+| Water Woes                             | NULL                                       |
+| Soil Turmoil                           | NULL                                       |
+| Hacker Hugs a Tree                     | NULL                                       |
+| Pursuit of the Prism of Power          | NULL                                       |
+| Composting in the Clutch               | NULL                                       |
+| A Camping Conundrum                    | NULL                                       |
+| Journey of a Thousand Food Miles       | NULL                                       |
+| Duck Stop                              | NULL                                       |
+| The Great Outdoors                     | NULL                                       |
+| Coral Grief                            | NULL                                       |
+| Sustainable by Design                  | NULL                                       |
+| Hacker's Bright Idea                   | NULL                                       |
+| Buzz and the Tree                      | NULL                                       |
+| The Lilting Loons                      | NULL                                       |
+| Living in Disharmony                   | NULL                                       |
+| Traffic Trouble                        | NULL                                       |
+| A Garden is Born                       | NULL                                       |
+| Clean-Up on Isle 8                     | NULL                                       |
+| Weather or Not                         | NULL                                       |
+| Weather or Not                         | NULL                                       |
+| Trees, Please                          | NULL                                       |
+| Eureeka                                | 2D and 3D Geometry                         |
+| Plantasaurus!                          | Air Quality                                |
+| Find Those Gleamers                    | Algebra                                    |
+| Face-Off!                              | Analyzing Ads (Reasoning)                  |
+| Hackerized!                            | Analyzing Data                             |
+| All the Right Angles                   | Angle Measurement                          |
+| Penguin Tears                          | Angles in Bouncing                         |
+| Sensible Flats                         | Area                                       |
+| A Battle of Equals                     | Balancing Equations                        |
+| A Whale of a Tale                      | Ballpark estimation                        |
+| Raising the Bar                        | Bar graphs                                 |
+| EcoHaven CSE                           | Body Math                                  |
+| Balancing Act                          | Budgeting Money                            |
+| Escape From Merlin's Maze              | Builders' Math: Algebraic Thinking         |
+| Unhappily Ever After                   | Builders' Math: Measurement, Geometry      |
+| Step By Step                           | Builders' Math: Multi-Step Problem Solving |
+| Spheres of Fears                       | Circle Diameter and Circumference          |
+| The Borg of the Ring                   | Circles                                    |
+| The Migration Situation                | Citizen Science                            |
+| Codename: Icky                         | Codes                                      |
+| A Day at the Spa                       | Combinations                               |
+| True Colors                            | Counter Examples                           |
+| Crystal Clear                          | Crystals                                   |
+| Castleblanca                           | Data Collection and Analysis               |
+| Past Perfect Prediction                | Data Prediction                            |
+| Mother's Day                           | Decimals                                   |
+| The Creech Who Would be Crowned        | Direction and Distance                     |
+| The Halloween Howl                     | Division                                   |
+| A Time to Cook                         | Elapsed Time                               |
+| Watts of Halloween Trouble             | Energy Conservation                        |
+| Harriet Hippo & the Mean Green         | Equivalent Fractions                       |
+| Snow Day to be Exact                   | Estimation                                 |
+| Parks and Recreation                   | Evidence-based Arguments                   |
+| Fit to be Heroes                       | Exercise Goals                             |
+| The Icky Factor                        | Factoring                                  |
+| Starlight Night                        | Finding a Simpler Case                     |
+| Zeus on the Loose                      | Fractions                                  |
+| A Fraction of a Chance                 | Fractions 101                              |
+| Trash Creep                            | Fractions, Effects of Trash, and Recycling |
+| Trick or Treat                         | Functions                                  |
+| A Seedy Business                       | Gardening/Nutrition                        |
+| A Crinkle In Time                      | Gears                                      |
+| Housewarming Party                     | Green Roofs (Natural Thermal Insulation)   |
+| Spellbound                             | Grids                                      |
+| Double Trouble                         | Growth by Doubling                         |
+| Creech's Creature Quandary             | Habitat Fragmentation                      |
+| The Grapes of Plath                    | High-Low Estimation                        |
+| Invasion of the Funky Flower           | Invasive Species                           |
+| Designing Mr. Perfect                  | Inventions: Design for Function            |
+| A Clean Sweep                          | Inventions: Persistence                    |
+| The Fairy Borg Father                  | Inventions: Refine and Optimize            |
+| EcoHaven Ooze                          | Inventions: Testing with Models            |
+| The Eye of Rom                         | Inverse Operations                         |
+| An Urchin Matter                       | Keystone Species and Kelp-Bed Ecosystem    |
+| A Change of Art                        | Line Graph Comparisons                     |
+| Return to Sensible Flats               | Line Graphs                                |
+| Fortress of Attitude                   | Linear Measurements                        |
+| Cool It                                | Liquid Volume                              |
+| The Cyberchase Movie                   | Living Space                               |
+| The Cyberchase Movie                   | Living Space                               |
+| Of All The Luck                        | Logic                                      |
+| Chaos as Usual                         | Math in Sports: Data Collection            |
+| Team Spirit                            | Math in Sports: Number and Operation       |
+| Jimaya Jam                             | Math in Sports: Representation             |
+| A Perfect Score                        | Math in Sports: Scoring Performance        |
+| Weather Watchers Gone With The Fog     | Math in Weather: Fog                       |
+| Blowin' in the Wind Blowin in the Wind | Math in Weather: Measuring Wind Speed      |
+| The X-Factor                           | Math in Weather: Multiplication Power      |
+| The Emperor Has Snow Clothes           | Math in Weather: Tracking Storms           |
+| Peace, Love, and Hackerness            | Measuring with Mixed Number Fractions      |
+| Hugs & Witches                         | Median of Data (Average)                   |
+| The Case of the Missing Memory         | Missing Information                        |
+| Shari Spotter and the Cosmic Crumpets  | Mixed-Number Fractions                     |
+| Trading Places                         | Monetary Systems                           |
+| Send in the Clones                     | Multiplication                             |
+| Lost My Marbles                        | Navigation                                 |
+| Less Than Zero                         | Negative Numbers                           |
+| And They Counted Happily Ever After    | Number, Operations, and Counting           |
+| A Recipe for Chaos                     | Nutrition                                  |
+| The Deedle Beast                       | Observing and Tracking Animal Behavior     |
+| The Flying Parallinis                  | Parallelograms                             |
+| The Poddleville Case                   | Patterns                                   |
+| Father's Day                           | Patterns in Codes                          |
+| Out of Sync                            | Patterns in Music                          |
+| A Tikiville Turkey Day                 | Patterns in Nature                         |
+| A Piece of the Action                  | Percents                                   |
+| Totally Rad                            | Perimeter/Area Relationship                |
+| Bottled Up                             | Plastic Disposal                           |
+| The Guilty Party                       | Point of View                              |
+| When Penguins Fly                      | Population Sampling                        |
+| R-Fair City                            | Probability and chance                     |
+| The Wedding Scammer                    | Problem Solving                            |
+| On the Line                            | Properties of a Line                       |
+| The Bluebird of Zappiness              | Proportional reasoning                     |
+| Digit's B-Day Surprise                 | Reading a Thermometer                      |
+| Be Reasonable                          | Reasoning                                  |
+| A Renewable Hope                       | Renewable Energy                           |
+| Inside Hacker                          | Robotic Reasoning                          |
+| The Snelfu Snafu                       | Saving Money                               |
+| Size Me Up                             | Scale and Size                             |
+| Going Solar                            | Solar Panels                               |
+| The Hacker's Challenge                 | Solution by Trying Numbers                 |
+| The Snelfu Snafu                       | Spending Money                             |
+| Secrets of Symmetria                   | Symmetry                                   |
+| A Perfect Fit                          | Tessellations                              |
+| A Murky Mystery in Mermaidos           | Thermal Pollution                          |
+| Clock Like An Egyptian                 | Time Keeping                               |
+| A Broom Of One's Own                   | Time/Distance/Speed                        |
+| Measure For Measure                    | Units of Measurement                       |
+| Model Behavior                         | Using Models                               |
+| Back to Canalia's Future               | Water Consumption                          |
+| A Reboot Eve to Remember               | Wind Energy                                |
+| Problem Solving in Shangri-La          | Working Backwards                          |
+| A World Without Zero                   | Zero                                       |
++----------------------------------------+--------------------------------------------+
