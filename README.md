@@ -1,2 +1,2 @@
-# CS50SQL
-My path through CS50’s introduction to databases using SQL
+# CS50 SQL
+## CS50’s introduction to databases using SQL
